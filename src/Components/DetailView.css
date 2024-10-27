@@ -1,0 +1,12 @@
+.detail-view {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .detail-view h2 {
+    margin-bottom: 20px;
+  }
+  

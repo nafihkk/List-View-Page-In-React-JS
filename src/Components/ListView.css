@@ -1,0 +1,23 @@
+.list-view {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .list-view ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-view li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .list-view li h3 {
+    margin: 0;
+  }
+  
+  .list-view li p {
+    margin: 5px 0;
+  }
+  
